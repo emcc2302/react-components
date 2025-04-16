@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@storybook/react": "^8.6.12",
+    "gh-pages": "^6.3.0",
     "storybook": "^8.6.12"
   }
 }
